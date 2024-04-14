@@ -69,10 +69,10 @@
 
 @keyframes borderAnimation {
   0% {
-      border-color: rgb(205, 250, 6);
+      border-color: rgb(73, 79, 46);
   }
   25% {
-      border-color: rgb(253, 13, 13);
+      border-color: rgb(62, 39, 39);
   }
   50% {
     border-color: rgb(0, 0, 0);
@@ -81,7 +81,7 @@
   border-color: blue;
 }
   100% {
-      border-color: green;
+      border-color: rgb(38, 72, 38);
   }
 }
 
