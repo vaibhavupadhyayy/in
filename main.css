@@ -67,6 +67,10 @@
   animation: borderAnimation 1s infinite alternate; 
 }
 
+.design{
+  filter: contrast(120%);
+}
+
 @keyframes borderAnimation {
   0% {
       border-color: rgb(73, 79, 46);
@@ -78,7 +82,7 @@
     border-color: rgb(0, 0, 0);
 }
 75% {
-  border-color: blue;
+  border-color: rgb(30, 30, 73);
 }
   100% {
       border-color: rgb(38, 72, 38);
